@@ -1,0 +1,17 @@
+March 22, 2020:
+Created a background video for the website, not competely done. Once I finish I, will put that background video on my website and let it loop.
+
+March 23, 2020:
+Finished the background video.
+
+March 24, 2020:
+Successfully put the background video on a website, starting to get familiar to HTML and CSS again.
+
+March 25, 2020:
+Created a nav bar, kind of offseted though. I did however create a logo and and favicon for the website. I need to fix the nav bar tomorrow as how I am envisioning it.
+
+March 26, 2020:
+Finished the Nav bar, got the logo to be in the middle of website and to rotate. Added an outline to the text in the nav bar for easier readiabilitty. One problem I came across, there was a huge white space below the bacground video, and it was scrollable.
+
+April 10th, 2020:
+Finished home page, trying to indulge myself into Python of project.
